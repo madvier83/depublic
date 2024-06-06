@@ -48,6 +48,10 @@
         </div>
         <div class="w-full h-[11px] bg-gray-100"></div>
 
+        <div class="flex items-center justify-center mt-8">
+            <a href="/auth/google/redirect" class="btn btn-ghost">Google</a>
+        </div>
+
         <div class="py-8"></div>
     </div>
 

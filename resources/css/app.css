@@ -17,3 +17,7 @@ select:focus {
 .btn {
     border-radius: 12px !important;
 }
+
+input {
+    @apply border-none;
+}
